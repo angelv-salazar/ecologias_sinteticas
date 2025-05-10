@@ -5,3 +5,7 @@ Estos son cuadernos colaborativos utilizando StyleGAN2 para generar imágenes:
 - **b._StyleGAN2_entrenamiento_modelo.ipynb**: Es para entrenar un modelo de aprendizaje automático utilizando StyleGAN2 basado en transferencia de aprendizaje. Es mejor comenzar usando imágenes con un tamaño de 512 px.
 - **c._StyleGAN2_generador.ipynb**: Genera imágenes a partir del modelo entrenado y puedes usarlas para crear un video generando fotogramas entre imágenes.
 - **d._nube_de_puntos.ipynb**: Genera un archivo ply de nube de puntos a partir de la carpeta de frames de las interpolaciones
+
+- Drive Taller:
+
+https://drive.google.com/drive/folders/1w1wIGhP98kQPzv7L5IOWPspoYIqts8VH?usp=sharing
